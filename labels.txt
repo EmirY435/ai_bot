@@ -1,0 +1,4 @@
+0 ekran_karti
+1 fan
+2 monitor
+3 RAM_karti
