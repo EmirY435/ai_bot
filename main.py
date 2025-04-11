@@ -85,4 +85,4 @@ async def check(ctx):
         except Exception as e:
             await ctx.send(f"⚠️ Hata oluştu: {str(e)}")
 # Token ile botu çalıştır (Kendi token'ını buraya eklemelisin)
-bot.run("MTMwMjY4ODI3NjMyMjMyMDQ4NQ.Gh2jCB.X5QqziAvh-d5C6iKtNF_Q9wQKzOhsnNGy2YNDs")
+bot.run("bot token")
